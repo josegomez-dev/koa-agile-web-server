@@ -1,0 +1,17 @@
+{
+  "name": "koa-agile-web-server",
+  "version": "1.0.0",
+  "description": "Koa Agile Web Server",
+  "main": "index.js",
+  "repository": "https://github.com/josegomez-dev/koa-agile-web-server",
+  "author": "Jose Gomez dev",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-body": "^4.0.3",
+    "koa-router": "^7.4.0"
+  }
+}
